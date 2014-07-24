@@ -31,7 +31,7 @@ github
 
  
 
-*** INFORMACION ADICIONAL REQUERIDA ***
+*** INFORMACION ADICIONAL REQUERIDA ****
 1) agregar baremos y gacetas de precios maximos para comparativos (gaceta 40196 precios de clinicas).
 2) Realizar la incorporación de firma digital (como elemento de seguridad para la aprobacion de las ordenes y solicitudes)
 3) Agregar la posibilidad de enviar un SMS al generarse algun proceso en el sistema.
