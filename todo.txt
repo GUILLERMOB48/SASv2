@@ -72,10 +72,10 @@ github
 
 *** MODULO DE SISTEMA *** 
 modelo de seguridad con kumbia:
-1) Recuperacion de contraseña a traves de correo electronico
-2) Validacion de Pregunta Secreta 
+1) Recuperacion de contraseña a traves de sms o correo electronico siendo este ultimo campo obligatorio en el formulario.
+2) Validacion de varias preguntas y respuestas secretas realizadas por el mismo usuario. 
 3) Cambio de Clave Al primer Inicio de Sesion y creacion de metodo para este procedimiento
-4) AGREGAR POSIBILIDAD DE RECUPERACION DE CUENTA DE USUARIO POR MEDIO DE LA VALIDACION DE UNA PREGUNTA SECRETA ESTABLECIDA POR EL USUARIO
+4) AGREGAR POSIBILIDAD DE RECUPERACION DE CUENTA DE USUARIO POR MEDIO DE LA VALIDACION DE UNA PREGUNTA SECRETA ESTABLECIDA POR EL USUARIO.
 
 
 
